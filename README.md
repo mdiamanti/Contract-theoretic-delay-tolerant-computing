@@ -6,3 +6,5 @@ Capitalizing on the different available computing options across the network, th
 further forwarded to the fog, based on the user’s delay tolerance. Subsequently, an edge-to-fog server contract is formulated to account for the edge server’s tradeoff between the local execution and transmission overheads, deriving the most beneficial amount of the users’ tasks that ultimately reaches the fog. The overall mechanism is evaluated via modeling and simulation regarding its operation and efficiency under different scenarios.
 
 # Run simulations
+To generate numerical results from the user to the edge, execute results_user_to_edge.m
+To generate numerical results from the edge to fog, execute results_edge_to_fog.m
